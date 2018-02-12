@@ -1,4 +1,5 @@
 #include<stdio.h>
+#includ<conio.h>
 int main()
 {
     char a[100];
@@ -14,5 +15,5 @@ int main()
     }
         printf("%d",&b);
     
-    return 0;
+    getch();
 }
